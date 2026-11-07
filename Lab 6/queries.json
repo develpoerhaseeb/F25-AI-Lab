@@ -1,0 +1,62 @@
+[
+  {
+    "query": "What is required for illness extensions?",
+    "doc": "late",
+    "evidence": "Illness extensions require medical evidence before the deadline.",
+    "split": "dev"
+  },
+  {
+    "query": "How do I reset a forgotten password?",
+    "doc": "password",
+    "evidence": "Reset a forgotten password using the recovery link.",
+    "split": "dev"
+  },
+  {
+    "query": "Where do I upload assignments?",
+    "doc": "assignment",
+    "evidence": "Upload assignments through the learning portal.",
+    "split": "dev"
+  },
+  {
+    "query": "Can contractors work remotely?",
+    "doc": "contractor",
+    "evidence": "Contractors can work remotely only if the signed contract permits it.",
+    "split": "dev"
+  },
+  {
+    "query": "What do I do for blank printer pages?",
+    "doc": "printer",
+    "evidence": "For blank printer pages, check ink levels and run the cleaning utility.",
+    "split": "test"
+  },
+  {
+    "query": "How can I recover my login access?",
+    "doc": "password",
+    "evidence": "Reset a forgotten password using the recovery link.",
+    "split": "test"
+  },
+  {
+    "query": "How should I hand in my coursework?",
+    "doc": "assignment",
+    "evidence": "Upload assignments through the learning portal.",
+    "split": "test"
+  },
+  {
+    "query": "What proof is needed when I was ill?",
+    "doc": "late",
+    "evidence": "Illness extensions require medical evidence before the deadline.",
+    "split": "test"
+  },
+  {
+    "query": "What are tomorrow's flight prices?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  },
+  {
+    "query": "Who won the football match?",
+    "doc": null,
+    "evidence": null,
+    "split": "test"
+  }
+]
